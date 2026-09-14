@@ -1,6 +1,9 @@
 ## Requerimiento
 - **Código:** 
-- **Descripción:** 
+- **Descripción:**
+<!--Añadir después de #  el número del issue-->
+- **Issue central:** conastec/pe-gestion-requerimientos-qa#
+ 
 ---
 
 ## Resumen de Cambios
