@@ -2,7 +2,7 @@
 - **Código:** 
 - **Descripción:**
 <!--Añadir después de #  el número del issue-->
-- **Issue central:** conastec/pe-gestion-requerimientos-qa#
+- **Issue central:** conastec/pe-gestion-requerimientos#
  
 ---
 
